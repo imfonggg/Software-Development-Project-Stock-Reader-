@@ -1,0 +1,11 @@
+C:\Users\popot\OneDrive\Máy tính\USF Courses\C#\Project2\bin\Debug\Project2.exe.config
+C:\Users\popot\OneDrive\Máy tính\USF Courses\C#\Project2\bin\Debug\Project2.exe
+C:\Users\popot\OneDrive\Máy tính\USF Courses\C#\Project2\bin\Debug\Project2.pdb
+C:\Users\popot\OneDrive\Máy tính\USF Courses\C#\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+C:\Users\popot\OneDrive\Máy tính\USF Courses\C#\Project2\obj\Debug\Project2.Form_Display.resources
+C:\Users\popot\OneDrive\Máy tính\USF Courses\C#\Project2\obj\Debug\Project2.Form_Home.resources
+C:\Users\popot\OneDrive\Máy tính\USF Courses\C#\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\popot\OneDrive\Máy tính\USF Courses\C#\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\popot\OneDrive\Máy tính\USF Courses\C#\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\popot\OneDrive\Máy tính\USF Courses\C#\Project2\obj\Debug\Project2.exe
+C:\Users\popot\OneDrive\Máy tính\USF Courses\C#\Project2\obj\Debug\Project2.pdb
